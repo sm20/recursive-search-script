@@ -8,7 +8,7 @@ INSTRUCTIONS
   
 
 Run:
-	scan.sh <string> <integer>
+     scan.sh <string> <integer>  
 Provide 2 command line arguments when running the scan.sh program:  
 	1. suffix - files to search  
 	2. integer N - number of files to display as output
